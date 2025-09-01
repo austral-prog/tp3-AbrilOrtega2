@@ -10,4 +10,5 @@ def slice_simple():
 
     nombre = texto [0:4] + texto [-3:]
     print(nombre)
-   
+    
+slice_simple()   
