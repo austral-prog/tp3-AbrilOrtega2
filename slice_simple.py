@@ -7,3 +7,5 @@ def slice_simple():
     print(letra)
     letra= nombre [0:7]
     print(letra)
+   
+slice_simple()
