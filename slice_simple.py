@@ -9,5 +9,5 @@ def slice_simple():
     print(nombre)
 
     nombre = texto [0:4] + texto [-3:]
-    print(letra)
+    print(nombre)
    
